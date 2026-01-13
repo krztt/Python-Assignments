@@ -1,0 +1,3 @@
+Samsung M54, phone, 20,000, Samsung
+Lenovo LOQ, laptop, 57,000, Lenovo
+Acer Nitro V, laptop, 52,000, Acer
